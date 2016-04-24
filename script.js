@@ -28,7 +28,7 @@ module.exports = new Script({
                 Just remember, I\'m a bot 🤖 I only respond to keywords.\n
                 Here is the list of keywords you can use: ABOUT, EDUCATION, CAREER, SKILLS, PROJECTS & CONTACT. At any time, if you're lost, say I AM LOST\n
                 Well... Ask me what you want 🙂\n
-                %[Test]()`))
+                %[Test](`message = 'test'`)`))
                 .then(() => 'speak');
         }
     },
