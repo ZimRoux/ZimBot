@@ -1,7 +1,13 @@
 {
-    "HELLO": "Hey, I'm so glad you set EstherBot up!",
-    "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "HELLO": "Hi!",
+    "HI": "Hello!",
+    "ABOUT": "",
+    "EDUCATION": "",
+    "CAREER": "", 
+    "SKILLS": "",
+    "PROJECTS": "",
+    "CONTACT": "If you want to contact the real me, please drop a message %[Here](http://www.gautier-zimmermann.com/#contact)",
+    "I AM LOST": "No you're not 🗺\n Here is some help! Use one of those keywords: ABOUT, EDUCATION, CAREER, SKILLS, PROJECTS, CONTACT"
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
