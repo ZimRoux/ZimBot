@@ -13,7 +13,21 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('So you want to learn about Esther? Just say HELLO to get started.')
+            return bot.say('Hi! I\'m ZimBot!')
+                .then(() => 'askName');
+        }
+    },
+
+    askName: {
+        prompt: (bot) => bot.say('What\'s your name?'),
+        receive: (bot, message) => {
+            const name = message.text;
+            return bot.setProp('name', name)
+                .then(() => bot.say(`Hi ${name}!\n
+                So, you're here to learn more about the real me, right? I'll try to help you!\n
+                Just remember, I\'m a bot ðŸ¤– I only respond to keywords.\n
+                Here is the list of keywords you can use: ABOUT, EDUCATION, CAREER, SKILLS, PROJECTS &#38; CONTACT. At any time, if you're lost, say I AM LOST\n
+                Well... Ask me what you want ðŸ™‚í ½ðŸ™‚`))
                 .then(() => 'speak');
         }
     },
@@ -44,7 +58,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I didn't understand that.`).then(() => 'speak');
+                    return bot.say(`I didn't understand that. %[Test](http://anyurl.com)`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
