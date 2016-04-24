@@ -54,7 +54,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`Sorry, I didn\'t understand what you said. Remember, I\'m just a bot 🤖 I\'m still learning your language 📚\nPlease try again 🙂`)
+                    return bot.say(`Sorry, I didn\'t understand what you said. Remember, I\'m just a bot 🤖 I\'m still learning your language 📚\nPlease try again 🙂 If you're lost, just write I AM LOST 🤓` )
                     .then(() => 'speak');
                 }
 
