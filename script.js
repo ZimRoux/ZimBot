@@ -23,11 +23,7 @@ module.exports = new Script({
         receive: (bot, message) => {
             const name = message.text;
             return bot.setProp('name', name)
-                .then(() => bot.say(`Hi ${name}!\n
-                So, you're here to learn more about the real me, right? I'll try to help you!\n
-                Just remember, I\'m a bot 🤖 I only respond to keywords.\n
-                Here is the list of keywords you can use: ABOUT, EDUCATION, CAREER, SKILLS, PROJECTS & CONTACT. At any time, if you're lost, say I AM LOST\n
-                Well... Ask me what you want 🙂\n`))
+                .then(() => bot.say(`Hi ${name}!\nSo, you're here to learn more about the real me, right? I'll try to help you!\nJust remember, I\'m a bot 🤖 I only respond to keywords.\nHere is the list of keywords you can use: ABOUT, EDUCATION, CAREER, SKILLS, PROJECTS & CONTACT. At any time, if you're lost, say I AM LOST\nWell... Ask me what you want 🙂`))
                 .then(() => 'speak');
         }
     },
@@ -58,8 +54,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`Sorry ${name}, I didn\'t understand what you said. Remember, I\'m just a bot 🤖 I\'m still learning your language.\n
-                    Please try again 🙂`)
+                    return bot.say(`Sorry ${name}, I didn\'t understand what you said. Remember, I\'m just a bot 🤖 I\'m still learning your language.\nPlease try again 🙂`)
                     .then(() => 'speak');
                 }
 
