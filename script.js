@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Hi! I\'m ZimBot!')
+            return bot.say('So, you're here to learn more about the real me, right? I'll try to help you!\nJust remember, I\'m a bot 🤖 I only respond to keywords.\nHere is the list of keywords you can use: ABOUT, EDUCATION, EXPERIENCES, SKILLS, PROJECTS & CONTACT. At any time, if you're lost, say I AM LOST\nWell... Ask me what you want 🙂`)')
                 .then(() => 'speak');
         }
     },
