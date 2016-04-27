@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say(`Hi!\nSo, you're here to learn more about the real me, right? I'll try to help you!\nJust remember, I\'m a bot 🤖 I only respond to keywords.\nHere is the list of keywords you can use: ABOUT, EDUCATION, EXPERIENCES, SKILLS, PROJECTS & CONTACT. At any time, if you're lost, say I AM LOST\nWell... Ask me what you want 🙂`)
+            return bot.say(`Get started by saying START`)
                 .then(() => 'speak');
         }
     },
@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`Sorry, I didn\'t understand what you said. Remember, I\'m just a bot 🤖 I\'m still learning your language 📚\nPlease try again 🙂 If you're lost, just write I AM LOST 🤓` )
+                    return bot.say(`Sorry, I didn\'t understand what you said. Remember, I\'m just a bot.\nSay RESTART to start over.���` )
                     .then(() => 'speak');
                 }
 
