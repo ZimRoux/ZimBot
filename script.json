@@ -1,5 +1,5 @@
 {
-    "START": "Hello! I'm ZimBot, Gautier's bot, a UX Product Manager from Nantes, France\nI guess you're here to know more about Gautier %[SURE](postback:SURE)%[SURE](postback:)",
+    "START": "Hello! I'm ZimBot, Gautier's bot, a UX Product Manager from Nantes, France\nI guess you're here to know more about Gautier %[SURE](postback:sure)",
     "SURE": "Test 1",
     "NOPE! JUST WANT TO TEST THE BOT": "Test 2",
     "HELLO": "... It's me 🎵",
