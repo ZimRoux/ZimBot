@@ -1,5 +1,5 @@
 {
-    "START": "Hello! I'm ZimBot, Gautier's bot, a UX Product Manager from Nantes, France\nI guess you're here to know more about Gautier %[Sure! Learn about Gautier](postback:learn_about_gautier) %[Nope! Just want to test the bot](postback:just_here_to_test_the_bot)",
+    "START": "Hello! I'm ZimBot, Gautier's bot, a UX Product Manager from Nantes, France\nI guess you're here to know more about Gautier\n%[12345678912345678912345678](postback:learn_about_gautier) %[Nope! Just want to test the bot](postback:just_here_to_test_the_bot)",
     "SURE! LEARN ABOUT GAUTIER": "Test 1",
     "NOPE! JUST WANT TO TEST THE BOT": "Test 2",
     "HELLO": "... It's me 🎵",
