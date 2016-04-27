@@ -18,16 +18,6 @@ module.exports = new Script({
         }
     },
 
-    /*askName: {
-        prompt: (bot) => bot.say('What\'s your name?'),
-        receive: (bot, message) => {
-            const name = message.text;
-            return bot.setProp('name', name)
-                .then(() => bot.say(`Hi ${name}!\nSo, you're here to learn more about the real me, right? I'll try to help you!\nJust remember, I\'m a bot 🤖 I only respond to keywords.\nHere is the list of keywords you can use: ABOUT, EDUCATION, EXPERIENCES, SKILLS, PROJECTS & CONTACT. At any time, if you're lost, say I AM LOST\nWell... Ask me what you want 🙂`))
-                .then(() => 'speak');
-        }
-    },*/
-
     speak: {
         receive: (bot, message) => {
 
