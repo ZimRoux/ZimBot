@@ -1,4 +1,7 @@
 {
+    "START": "Hello! I'm ZimBot, Gautier's bot, a UX Product Manager from Nantes, France\nI guess you're here to know more about Gautier %[Sure! Learn about Gautier](postback:learn_about_gautier) %[Nope! Just want to test the bot](postback:just_here_to_test_the_bot)",
+    "SURE! LEARN ABOUT GAUTIER": "Test 1",
+    "NOPE! JUST WANT TO TEST THE BOT": "Test 2",
     "HELLO": "... It's me 🎵",
     "HI": "Hello!",
     "ABOUT":	"I am Gautier Zimmermann, I'm 23 and live in Nantes, France 🇫🇷 I recently graduated from Neoma Business School and do my internship as UX Product Manager at Lengow, a French e-commerce start-up. I like to say I spend my days drawing circles and squares on my whiteboard, but sometimes I use my brain to solve customers' problems 🤔\n\nIf you want to know more about me, just type HOBBIES or FUN FACT",
