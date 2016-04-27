@@ -4,8 +4,8 @@
     "I WAS KIDDING": "I was sure about it! So, do you want to know more about Gautier? %[SURE](postback:sure)",
     "SURE!": "I know a lot about Gautier! What do you want to know about him? %[Who is he?](postback:who_is_he) %[Education](postback:education) %[Career](postback:career) %[Side projects](postback:side_projects)",
     "WHO IS HE?":	"Gautier is 23 and lives in Nantes, France.\nHe recently graduated from Neoma Business School and does his internship as UX Product Manager at Lengow, a French e-commerce start-up.\nHe likes to say he spends his days drawing circles and squares on his whiteboard, while sometimes he uses his brain to solve customers' problems.%[Done](postback:done)",
-    //"FUN FACT":	"I 'm a ginger and I'm proud of it! And... That's all.\nNot funny? Okay... I hid some Easter eggs in the keywords, I let you find them! GOOD LUCK 🍀",
-    //"HOBBIES":	"I spend hours on my computer 💻 It's crazy how many things you can learn on the Internet 📚 Like how to code , how to use Photoshop and Sketch or how to cook a \"quiche Lorraineee\" (if you don't know what it is, Google it!)... I also watch a lot of movies and series, Netflix & chill 📺 Oh! I've nearly forgotten! I like beer too 🍻\n\nUse other keywords to know more about me 🙂",
+"FUN FACT":	"I 'm a ginger and I'm proud of it! And... That's all.\nNot funny? Okay... I hid some Easter eggs in the keywords, I let you find them! GOOD LUCK 🍀",
+"HOBBIES":	"I spend hours on my computer 💻 It's crazy how many things you can learn on the Internet 📚 Like how to code , how to use Photoshop and Sketch or how to cook a \"quiche Lorraineee\" (if you don't know what it is, Google it!)... I also watch a lot of movies and series, Netflix & chill 📺 Oh! I've nearly forgotten! I like beer too 🍻\n\nUse other keywords to know more about me 🙂",
     "EDUCATION": "Gautier want to be computer scientist. So he went to a Business School, studied Digital Marketing & Communication and travelled to Australia. %[A Business School?](postback:business_school) %[Degree](postback:degree) %[Australia](postback:australia)",
     "A BUSINESS SCHOOL?": "Crazy right? Gautier decided to study at a Business School at the last minute because he though that was the best way to combine two of his best interests: business and computer science.\nHe has never regretted his choice.%[Why not?](postback:why_not)",
     "WHY NOT?": "Because he had the opportunity to learn what he loved and still loves: digital marketing and communication.\nHe also had the opportunity to do his exchange semester in Australia.%[Degree](postback:degree) %[Australia](postback:australia)",
@@ -15,26 +15,27 @@
     "PHOTOSHOP": "Gautier loves learning new stuff!\nHe spents hours learning how to use Photoshop or Sketch and watching at Udemy to improve his skills.\nGautier does know Photoshop, Sketch and Balsamiq, but he also knows how to code. %[Other skills](http://bit.ly/Skills-ZimBot) %[Done](postback:done) %[Connect with Gautier](postback:connect_with_gautier)",
     "AUSTRALIA": "He just spent six months getting a tan ☀️... Okay maybe it's a lie. He worked hard at uni to succeed in he semester (GPA: 5.5/7). But he particularly discovered a wonderful country with the nicest people 😊 and the craziest animals 🐨🐠🐬 he has ever met! %[Done](postback:done)",
 
-    //"EXPERIENCES":	"I am a UX Product Manager intern at Lengow, one of the best ecommerce automation platforms helping retailers to distribute their products worldwide 🌍 Previously, I was Digital Project Manager intern at CANAL+, the first French paid-TV, where I developed the web strategy for the 30th anniversary of the channel 🎂\nIf you want to know more on my experiences type LENGOW or CANAL+ ",
-    //"LENGOW":	"I draw circles and squares on my whiteboard and implement new ideas. I can't say more at this time, it's still TOP SECRET 🔍\n\nUse other keywords to know more about me 🙂",
-    //"CANAL+":	"I developed, produced and handled the dedicated replay platform of special anniversary TV shows, dedicated websites for each show and a dedicated graphic design for social media. To do it, I worked in collaboration with the digital marketing team, the social TV team, the TV unit team, the artistic direction and the engineering team.\nThat was a lot of work to do 🏋 But it was worth the effort: the anniversary replay platform generated more than one million views 😱\n\nUse other keywords to know more about me 🙂",
+"EXPERIENCES":	"I am a UX Product Manager intern at Lengow, one of the best ecommerce automation platforms helping retailers to distribute their products worldwide 🌍 Previously, I was Digital Project Manager intern at CANAL+, the first French paid-TV, where I developed the web strategy for the 30th anniversary of the channel 🎂\nIf you want to know more on my experiences type LENGOW or CANAL+ ",
+"LENGOW":	"I draw circles and squares on my whiteboard and implement new ideas. I can't say more at this time, it's still TOP SECRET 🔍\n\nUse other keywords to know more about me 🙂",
+"CANAL+":	"I developed, produced and handled the dedicated replay platform of special anniversary TV shows, dedicated websites for each show and a dedicated graphic design for social media. To do it, I worked in collaboration with the digital marketing team, the social TV team, the TV unit team, the artistic direction and the engineering team.\nThat was a lot of work to do 🏋 But it was worth the effort: the anniversary replay platform generated more than one million views 😱\n\nUse other keywords to know more about me 🙂",
    
-    //"PROJECTS":	"This bot 🤖 is one of my side projects .\nI also developed my website (👉 http://www.gautier-zimmermann.com).\nThe project I'm most proud of is Republ33k, a blog I co-founded dealing with pop culture (comics, video games, ect.).  Three years in a row, Republ33k was considered as one of the ten best French blogs in the Web News category, according to Golden Golden Awards Paris 🏆. 8,100 users visited Republ33k every month 📊and we had prestigious partners like DC Comics or Warner Bros. Pictures. You can see more there 👉 http://www.republ33k.fr (in French)",
+"PROJECTS":	"This bot 🤖 is one of my side projects .\nI also developed my website (👉 http://www.gautier-zimmermann.com).\nThe project I'm most proud of is Republ33k, a blog I co-founded dealing with pop culture (comics, video games, ect.).  Three years in a row, Republ33k was considered as one of the ten best French blogs in the Web News category, according to Golden Golden Awards Paris 🏆. 8,100 users visited Republ33k every month 📊and we had prestigious partners like DC Comics or Warner Bros. Pictures. You can see more there 👉 http://www.republ33k.fr (in French)",
     
     "DONE": "Okay. Here's other stuff to check out.%[Education](postback:education) %[Career](postback:career) %[Side projects](postback:side_projects)"
     "CONNECT WITH GAUTIER": "Nice! Gautier will be so happy to speak with you! You can either tweet him or connect directly to chat with him.\nIf you've got feedback or an opportunity, don't hesitate ;) %[Tweet to Gautier](http://bit.ly/TwitterZimBot) %[Connect me](postback:connect_me)"
 
 
-    //"HELLO": "... It's me 🎵",
-    //"HI": "Hello!",
-    //"I AM SPIDERMAN":	"No, you're not 🕷",
-    //"HIDE YOU":	"🙈",
-    //"GOOD LUCK":	"Thank you! But you need more luck than me 🍀",
-    //"CHEERS":	"Cheers mate 🍻",
-    //"LINKEDIN":	"Do, you want  my LinkedIn account? Here it is 👉https://fr.linkedin.com/in/gautierzimmermann/en",
-    //"TOP SECRET":	"My name is Bot, ZimBot 🍸",
-    //"CONTACT": "If you want to contact the real me, please drop a message there 👉 http://http://www.gautier-zimmermann.com/#contact",
-    //"I AM LOST": "No you're not 🗺\nHere is some help! Use one of those keywords: ABOUT, EDUCATION, EXPERIENCES, SKILLS, PROJECTS, CONTACT",
+"HELLO": "... It's me 🎵",
+"HI": "Hello!",
+"I AM SPIDERMAN":	"No, you're not 🕷",
+"HIDE YOU":	"🙈",
+"GOOD LUCK":	"Thank you! But you need more luck than me 🍀",
+"CHEERS":	"Cheers mate 🍻",
+"LINKEDIN":	"Do, you want  my LinkedIn account? Here it is 👉https://fr.linkedin.com/in/gautierzimmermann/en",
+"TOP SECRET":	"My name is Bot, ZimBot 🍸",
+"CONTACT": "If you want to contact the real me, please drop a message there 👉 http://http://www.gautier-zimmermann.com/#contact",
+"I AM LOST": "No you're not 🗺\nHere is some help! Use one of those keywords: ABOUT, EDUCATION, EXPERIENCES, SKILLS, PROJECTS, CONTACT",
+
     "CONNECT ME": "Gautier will answer you as soon as possible!",
     "DISCONNECT": "Hello! I'm back!"
 }
