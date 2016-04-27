@@ -1,5 +1,6 @@
 {
-    "START": "Hello!\n I'm ZimBot, Gautier's bot, a UX Product Manager intern from France\nI guess you're here to know more about Gautier %[SURE!](postback:sure) %[Nope](postback:nope)",
+    "START": "Hello!\n I'm ZimBot, Gautier's bot, a UX Product Manager intern from France.\nI guess you're here to know more about Gautier? %[SURE!](postback:sure) %[Nope](postback:nope)",
+    "DÉMARRER": "Bonjour !\nJe m'appelle ZimBot, le bot de Gautier, UX Product Manager à Nantes.\nJe suppose que vous êtes là pour que je vous parle de lui plus en détail ? %[Bien sûr !](postback:bien_sur)",
     "NOPE": "Oh.. Okay... So why are you here? 🤔 %[I was kidding](postback:kidding)",
     "I WAS KIDDING": "I was sure about it! So, do you want to know more about Gautier? %[SURE!](postback:sure)",
     "SURE!": "I know a lot about Gautier! What do you want to know about him? %[Who is he?](postback:who_is_he) %[Education](postback:education) %[Career](postback:career) %[Side projects](postback:side_projects)",
