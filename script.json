@@ -1,7 +1,7 @@
 {
     "START": "Hello!\n I'm ZimBot, Gautier's bot, a UX Product Manager intern from France\nI guess you're here to know more about Gautier %[SURE!](postback:sure) %[Nope](postback:nope)",
     "NOPE": "Oh.. Okay... So why are you here? 🤔 %[I was kidding](postback:kidding)",
-    "I WAS KIDDING": "I was sure about it! So, do you want to know more about Gautier? %[SURE](postback:sure)",
+    "I WAS KIDDING": "I was sure about it! So, do you want to know more about Gautier? %[SURE!](postback:sure)",
     "SURE!": "I know a lot about Gautier! What do you want to know about him? %[Who is he?](postback:who_is_he) %[Education](postback:education) %[Career](postback:career) %[Side projects](postback:side_projects)",
     "WHO IS HE?":	"Gautier is 23 and lives in Nantes, France.\nHe recently graduated from Neoma Business School and does his internship as UX Product Manager at Lengow, a French e-commerce start-up.\nHe likes to say he spends his days drawing circles and squares on his whiteboard, while sometimes he uses his brain to solve customers' problems.%[Done](postback:done)",
 "FUN FACT":	"I 'm a ginger and I'm proud of it! And... That's all.\nNot funny? Okay... I hid some Easter eggs in the keywords, I let you find them! GOOD LUCK 🍀",
