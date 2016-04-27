@@ -21,8 +21,8 @@
    
 "PROJECTS":	"This bot 🤖 is one of my side projects .\nI also developed my website (👉 http://www.gautier-zimmermann.com).\nThe project I'm most proud of is Republ33k, a blog I co-founded dealing with pop culture (comics, video games, ect.).  Three years in a row, Republ33k was considered as one of the ten best French blogs in the Web News category, according to Golden Golden Awards Paris 🏆. 8,100 users visited Republ33k every month 📊and we had prestigious partners like DC Comics or Warner Bros. Pictures. You can see more there 👉 http://www.republ33k.fr (in French)",
     
-    "DONE": "Okay. Here's other stuff to check out.%[Education](postback:education) %[Career](postback:career) %[Side projects](postback:side_projects)"
-    "CONNECT WITH GAUTIER": "Nice! Gautier will be so happy to speak with you! You can either tweet him or connect directly to chat with him.\nIf you've got feedback or an opportunity, don't hesitate ;) %[Tweet to Gautier](http://bit.ly/TwitterZimBot) %[Connect me](postback:connect_me)"
+    "DONE": "Okay. Here's other stuff to check out.%[Education](postback:education) %[Career](postback:career) %[Side projects](postback:side_projects)",
+    "CONNECT WITH GAUTIER": "Nice! Gautier will be so happy to speak with you! You can either tweet him or connect directly to chat with him.\nIf you've got feedback or an opportunity, don't hesitate ;) %[Tweet to Gautier](http://bit.ly/TwitterZimBot) %[Connect me](postback:connect_me)",
 
 
 "HELLO": "... It's me 🎵",
