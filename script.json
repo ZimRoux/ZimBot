@@ -49,6 +49,7 @@
     "DO YOU LIKE ME?": "Do YOU like me? %[I LIKE YOU](postback:i_like_you) %[I DON'T LIKE YOU](postback:i_dont_like_you)",
     "DO YOU LIKE ME": "Do YOU like me? %[I LIKE YOU](postback:i_like_you) %[I DON'T LIKE YOU](postback:i_dont_like_you)",
     "I LOVE YOU": "I love you too <3",
+    "<3": "I love you too <3",
     "I LIKE YOU": "I like you too :-)",
     "I DON'T LIKE YOU": "Oh... Okay :-(",
     "AWESOME!": "That's what Barney Stinson said.",
