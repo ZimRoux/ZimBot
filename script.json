@@ -53,7 +53,11 @@
     "I DON'T LIKE YOU": "Oh... Okay :-(",
     "AWESOME!": "That's what Barney Stinson said.",
     "AWESOME": "That's what Barney Stinson said.",
+    ":D": "It's nice to see you so happy",
+    ":-D": "It's nice to see you so happy",
+    ":-)": ":-)",
     ":)": ":-)",
+    ":-(": "Don't be sad",
     ":(": "Don't be sad",
     ":'(": "Don't worry, be happy :-)",
     "COOL": "![Hell yeah](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/hell_yeah.jpg)\n",
@@ -63,6 +67,8 @@
     "I MISSED YOU": "I here now!",
     "I LIKE TALKING WITH YOU": "Me too",
     "LOL": "![Why so serious?](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/why_so_serious.jpg)",
+    "THANKS": "You're welcome!",
+    "THANK YOU": "You're welcome!",
 
     "CONNECT ME": "Gautier will answer you as soon as possible!",
     "DISCONNECT": "Hello! I'm back!"
