@@ -50,7 +50,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`Sorry, I didn\'t understand what you said. Remember, I\'m just a bot.\nSay RESTART to start over.` ).then(() => 'speak');
+                    return bot.say(`Sorry, I didn\'t understand what you said. Remember, I\'m just a bot.\nSay START to start over.` ).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
