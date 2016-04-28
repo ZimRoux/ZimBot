@@ -24,7 +24,6 @@
     "WHAAAAT?!" : "I'm sorry. You weren't supposed to know that. %[Done](postback:done)",
     "DONE": "Okay. Here's other stuff to check out.%[Education](postback:education) %[Career](postback:career) %[Side projects](postback:side_projects)",
     "CONNECT WITH GAUTIER": "Nice! Gautier will be so happy to speak with you! You can either tweet him or connect directly to chat with him.\nIf you've got feedback or an opportunity, don't hesitate ;) %[Tweet to Gautier](http://bit.ly/TwitterZimBot) %[Connect me](postback:connect_me)",
-
     "HELLO": "... It's me 🎵",
     "HI": "Hello!",
     "I AM SPIDERMAN":   "No, you're not 🕷",
@@ -78,9 +77,6 @@
     "TEST": "1.2.1.2 This is a test!",
     "PING": "PONG",
     "PONG": "PING",
-    "WHAT IS THE MEANING OF LIFE?": "42",
-    "WHAT IS THE MEANING OF LIFE": "42",
-    
     "CONNECT ME": "Gautier will answer you as soon as possible!",
     "DISCONNECT": "Hello! I'm back!"
 }
