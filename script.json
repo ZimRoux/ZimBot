@@ -24,8 +24,8 @@
     "WHAAAAT?!" : "I'm sorry. You weren't supposed to know that. %[Done](postback:done)",
     "DONE": "Okay. Here's other stuff to check out.%[Education](postback:education) %[Career](postback:career) %[Side projects](postback:side_projects)",
     "CONNECT WITH GAUTIER": "Nice! Gautier will be so happy to speak with you! You can either tweet him or connect directly to chat with him.\nIf you've got feedback or an opportunity, don't hesitate ;) %[Tweet to Gautier](http://bit.ly/TwitterZimBot) %[Connect me](postback:connect_me)",
-    "TEST": "Hello ![sunburn](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/sunburn.gif)"
-    "TEST2": "Hello !\n[sunburn](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/sunburn.gif)"
+    "TEST": "Hello ![sunburn](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/sunburn.gif)",
+    "TEST2": "Hello !\n[sunburn](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/sunburn.gif)",
 
     "HELLO": "... It's me 🎵",
     "HI": "Hello!",
