@@ -78,9 +78,9 @@
     "TEST": "1.2.1.2 This is a test!",
     "PING": "PONG",
     "PONG": "PING",
-    "WHAT IS THE MEANING OF LIFE?": "42";
-    "WHAT IS THE MEANING OF LIFE": "42";
-
+    "WHAT IS THE MEANING OF LIFE?": "42",
+    "WHAT IS THE MEANING OF LIFE": "42",
+    
     "CONNECT ME": "Gautier will answer you as soon as possible!",
     "DISCONNECT": "Hello! I'm back!"
 }
