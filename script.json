@@ -6,7 +6,7 @@
     "SURE!": "I know a lot about Gautier! What do you want to know about him? %[Who is he?](postback:who_is_he) %[Education](postback:education) %[Career](postback:career) %[Side projects](postback:side_projects)",
     "WHO IS HE?":   "Gautier is 23 and lives in Nantes, France.\nHe recently graduated from Neoma Business School and does his internship as UX Product Manager at Lengow, a French e-commerce start-up.\nHe likes to say he spends his days drawing circles and squares on his whiteboard, while sometimes he uses his brain to solve customers' problems. %[FUN FACT](postback:fun_fact) %[HOBBIES](postback:hobbies) %[Done](postback:done)",
     "FUN FACT": "Gautier is a ginger and he is proud of it! And... That's all.\nNot funny? Okay... I hid some Easter eggs in the keywords, I let you find them! GOOD LUCK 🍀 %[Another fun fact](https://www.youtube.com/watch?v=dQw4w9WgXcQ) %[Done](postback:done)",
-    "HOBBIES":  "Gautier spends hours on his computer. It's crazy how many things you can learn on the Internet. Like how to code , how to use Photoshop and Sketch or how to cook a \"quiche Lorraineee\" (if you don't know what it is, Google it!)...\nHe also watch a lot of movies and series, Netflix & chill. Oh! I've nearly forgotten! I like beer too 🍻 %[Skills](postback:skills) %[Cheers!](postback:cheers)",
+    "HOBBIES":  "Gautier spends hours on his computer. It's crazy how many things you can learn on the Internet. Like how to code , how to use Photoshop and Sketch or how to cook a \"quiche Lorraineee\" (if you don't know what it is, Google it!)...\nHe also watch a lot of movies and series, Netflix & chill. Oh! I've nearly forgotten! He likes beer too 🍻 %[Skills](postback:skills) %[Cheers!](postback:cheers)",
     "EDUCATION": "Gautier wanted to be computer scientist. So he went to a Business School, studied Digital Marketing & Communication and travelled to Australia. %[A Business School?](postback:business_school) %[Degree](postback:degree) %[Australia](postback:australia)",
     "A BUSINESS SCHOOL?": "Crazy right? Gautier decided to study at a Business School at the last minute because he thought that was the best way to combine two of his best interests: business and computer science.\nHe has never regretted his choice.%[Why not?](postback:why_not)",
     "WHY NOT?": "Because he had the opportunity to learn what he loved and still loves: digital marketing and communication.\nHe also had the opportunity to do his exchange semester in Australia.%[Degree](postback:degree) %[Australia](postback:australia)",
@@ -68,7 +68,7 @@
     "I MISS YOU": "I miss you too!",
     "I MISSED YOU": "I here now!",
     "I LIKE TALKING WITH YOU": "Me too",
-    "LOL": "![Why so serious?](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/why_so_serious.jpg)",
+    "LOL": "![Why so serious?](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/why_so_serious.jpg)",l
     "THANKS": "You're welcome!",
     "THANK YOU": "You're welcome!",
     "YOU ARE CUTE": ":-$",
@@ -78,7 +78,8 @@
     "TEST": "1.2.1.2 This is a test!",
     "PING": "PONG",
     "PONG": "PING",
-    
+    "WHAT IS THE MEANING OF LIFE?": "42";
+    "WHAT IS THE MEANING OF LIFE": "42";
 
     "CONNECT ME": "Gautier will answer you as soon as possible!",
     "DISCONNECT": "Hello! I'm back!"
