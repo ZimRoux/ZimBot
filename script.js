@@ -19,7 +19,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say(`Get started by saying START`)
+            return bot.say(`Please choose your language.\nChoisissez votre langue\n%[English](postback:english) %[Français](postback:francais)`)
                 .then(() => 'speak');
         }
     },
@@ -50,7 +50,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`Sorry, I didn\'t understand what you said. Remember, I\'m just a bot.\nSay START to start over.` ).then(() => 'speak');
+                    return bot.say(`[EN]Sorry, I didn\'t understand what you said. Remember, I\'m just a bot.\n[EN]Say START to start over.\n[FR]Désolé, je n'ai pas compris. Rappelez-vous, je ne suis qu'un bot.\n[FR]Dites démarrer pour relancer la conversation.` ).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
