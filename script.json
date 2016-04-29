@@ -163,5 +163,9 @@
     "LISTE": "Voici une liste non exhaustive de ce que vous pouvez me dire:\nBONJOUR\nCA VA ?\nQUI ES-TU ?\nPING\nOK GOOGLE\nJe vous laisse chercher les autres expressions :-)",
 
     "CONNECT ME": "Gautier will answer you as soon as possible!",
-    "DISCONNECT": "Hello! I'm back!"
+    "DISCONNECT": "Hello! I'm back!",
+    
+    "GIF TEST 1": "![test](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/banghead.gif)",
+    "GIF TEST 2": "![test](http://i.giphy.com/CkE3ge4PJofcI.gif)",
+    "GIF TEST 3": "![test](http://giphy.com/gifs/CkE3ge4PJofcI/html5)"
 }
