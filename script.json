@@ -95,8 +95,8 @@
     "HEY SIRI": "Hey! Wait!? I'm not Siri!",
 
     "LIST": "This is a non-exhaustive list of what you can tell me:\nHELLO\nHOW ARE YOU?\nWHO ARE YOU?\nWHAT'S UP?\nPING\nOK GOOGLE\nI let you find other expressions :-)",
-    "FRANÇAIS":"Dites Démarrer pour commencer.",
-    "DÉMARRER": "Bonjour !\nJe m'appelle ZimBot, le bot de Gautier, UX Product Manager à Nantes.\nJe suppose que vous êtes là pour que je vous parle de lui plus en détail ? %[Bien sûr !](postback:bien_sur) %[Pas vraiment](postback:pas_vraiment)",
+    "FRANÇAIS":"Dites DEMARRER pour commencer.",
+    "DEMARRER": "Bonjour !\nJe m'appelle ZimBot, le bot de Gautier, UX Product Manager à Nantes.\nJe suppose que vous êtes là pour que je vous parle de lui plus en détail ? %[Bien sûr !](postback:bien_sur) %[Pas vraiment](postback:pas_vraiment)",
     "PAS VRAIMENT": "Ah... D'accord... Qu'est-ce que vous faites là alors ? 🤔 %[Je plaisantais](postback:plaisantais) %[Pour t'embêter](https://www.youtube.com/watch?v=dQw4w9WgXcQ)",
     "JE PLAISANTAIS": "J'en étais sûr ! Du coup, voulez-vous en apprendre plus sur Gautier ? %[Bien sûr !](postback:bien_sur)",
     "BIEN SÛR !": "Je connais de nombreuses choses sur Gautier ! Que voulez-vous connaitre sur lui ? %[Qui est-ce ?](postback:qui_est_ce) %[Etudes](postback:etudes) %[Experiences](postback:experiences) %[Autres projets](postback:autres_projets)",
