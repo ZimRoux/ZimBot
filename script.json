@@ -23,7 +23,7 @@
     "SIDE PROJECTS": "I am one of Gautier's side projects .\nHe also developed his own website\nThe side project he's most proud of is Republ33k, a blog he co-founded dealing with pop culture (comics, video games, ect.). %[Bot](postback:bot) %[Republ33k](postback:republ33k) %[Visit his website](http://bit.ly/gautier-zimbot)",
     "BOT": "I'm a bot, and one day I'll rule the world! %[WHAAAAT?!](postback:whaaaat)",
     "WHAAAAT?!": "I'm sorry. You weren't supposed to know that. %[I know everything](postback:i_know_everything)",
-    "I KNOW EVERYTHING": "Not anymore.![men_in_black](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/men_in_black.jpeg)\nNow, you can type LIST",
+    "I KNOW EVERYTHING": "Not anymore.\n![men_in_black](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/men_in_black.jpeg)\nNow, you can type LIST",
     "MORE": "Okay. Here's other stuff to check out.%[Education](postback:education) %[Career](postback:career) %[Side projects](postback:side_projects)",
     "CONNECT WITH GAUTIER": "Nice! Gautier will be so happy to speak with you! You can either tweet him or connect directly to chat with him.\nIf you've got feedback or an opportunity, don't hesitate ;-) %[Tweet to Gautier](http://bit.ly/TwitterZimBot) %[Connect me](postback:connect_me)",
     "HELLO": "... It's me ♫",
