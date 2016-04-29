@@ -93,6 +93,8 @@
     "OKAY GOOGLE": "![Wrong](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/Google-404-not-found-error.png)",
     "OK GOOGLE": "![Wrong](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/Google-404-not-found-error.png)",
     "HEY SIRI": "Hey! Wait!? I'm not Siri!",
+    "DO YOU HAVE FRIEND": "I have you",
+    "DO YOU HAVE FRIEND?": "I have you",
 
     "LIST": "This is a non-exhaustive list of what you can tell me:\nHELLO\nHOW ARE YOU?\nWHO ARE YOU?\nWHAT'S UP?\nPING\nOK GOOGLE\nI let you find other expressions :-)",
     "FRANÇAIS":"Dites DEMARRER pour commencer.",
