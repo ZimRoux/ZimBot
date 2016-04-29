@@ -120,6 +120,7 @@
     "BOT ?": "Je suis un bot et un jour, je dirigerai le monde ! %[EUUUH?!](postback:whaaaat)",
     "EUUUH?!": "Pardon. Vous n'étiez pas censé apprendre ça... %[Je sais tout !](postback:je_sais_tout)",
     "JE SAIS TOUT !": "Plus maintenant.\n![men_in_black](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/men_in_black.jpeg)\nVous pouvez maintenant écrire LISTE",
+    "JE SAIS TOUT": "Plus maintenant.\n![men_in_black](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/men_in_black.jpeg)\nVous pouvez maintenant écrire LISTE",
     "PLUS": "Okay. Voici d'autres choses que vous pouvez apprendre sur Gautier. %[Etudes](postback:etudes) %[Experiences](postback:experiences) %[Autres projets](postback:autres_projets)",
     "CONTACTER GAUTIER": "Super ! Gautier sera ravi de parler avec vous ! Vous pouvez, au choix, le contacter sur Twitter ou vous connecter avec lui pour lui parler directement.\nSi vous avez le moindre feedback ou la moindre opportunité, n'hésitez pas à le contacter ;-) %[Tweeter Gautier](http://bit.ly/TwitterZimBot) %[Connect me](postback:connect_me)",
     "BONJOUR": "Bonsoir",
