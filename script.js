@@ -50,7 +50,9 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`[EN] Sorry, I didn\'t understand what you said. Remember, I\'m just a bot.\n[EN] Say START to start over.\n[FR] Désolé, je n'ai pas compris. Rappelez-vous, je ne suis qu'un bot.\n[FR] Dites DEMARRER pour relancer la conversation.` ).then(() => 'speak');
+                    var didntUnderstandArray = ['![didnt_understand_1](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/didnt-understand-1.jpg)', '![didnt_understand_2](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/didnt-understand-2.jpg)', '![didnt_understand_3](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/didnt-understand-3.jpg)', '![didnt_understand_4](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/didnt-understand-4.jpg)', '![didnt_understand_5](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/didnt-understand-5.jpg)'];
+                    var randDidntUnderstand = didntUnderstandArray[Math.floor(Math.random() * didntUnderstandArray.length)];
+                    return bot.say(randDidntUnderstand).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
