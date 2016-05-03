@@ -1,4 +1,4 @@
-# EstherBot built using the Smooch Bot example
+# ZimBot built using the Smooch Bot example
 If you want a slightly more sophisticated setup and are comfortable using the console then go see the original here: https://github.com/smooch/smooch-bot-example 
 
 ## Build Your Bot
@@ -32,7 +32,7 @@ Keywords are not case sensitive for users.
 
 The only two keywords you don't want to change are CONNECT ME and DISCONNECT. CONNECT ME turns the automated chat off, so the bot will stop responding to keywords. DISCONNECT will turn the bot back on. 
 
-Also, the initial script starts with "So you want to learn about Esther? ..." but of course you'll want to change it. You can edit it in the script.js file.
+Also, the initial script starts with "Please choose your languague..." but of course you'll want to change it. You can edit it in the script.js file.
 
 ##Bonus
 Open the Smooch [control panel](https://app.smooch.io) and add more integrations. You can add new user channels like Twilio SMS, or you can add Slack or HipChat which will let you join in on the conversation along side your bot. Pretty neat!
