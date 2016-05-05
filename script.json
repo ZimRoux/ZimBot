@@ -181,7 +181,7 @@
     "LISTE": "Voici une liste non exhaustive de ce que vous pouvez me dire:\nBONJOUR\nCA VA ?\nQUI ES-TU ?\nPING\nOK GOOGLE\nJe vous laisse chercher les autres expressions :-)",
     "DONNE MOI UN INDICE": "Voici une liste non exhaustive de ce que vous pouvez me dire:\nBONJOUR\nCA VA ?\nQUI ES-TU ?\nPING\nOK GOOGLE\nJe vous laisse chercher les autres expressions :-)",
 
-"TEST3": "![Why so serious?](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/why_so_serious.jpg)(Some text to test) %[Test](postback:test) %[Test 2](postback:test2)",
+"TEST3": "![Why so serious?](https://raw.githubusercontent.com/ZimRoux/ZimBot/master/img/why_so_serious.jpg)\n(Some text to test) %[Test](postback:test) %[Test 2](postback:test2)",
 
     "CONNECT ME": "Gautier will answer you as soon as possible!",
     "DISCONNECT": "Hello! I'm back!"
